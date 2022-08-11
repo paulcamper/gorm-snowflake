@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20210412155425-91a658aa3db1 // indirect
-	github.com/google/flatbuffers v2.0.0 // indirect
+	github.com/google/flatbuffers v1.12.0 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/pierrec/lz4/v4 v4.1.6 // indirect
